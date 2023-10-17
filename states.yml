@@ -1,0 +1,29 @@
+---
+- name: Lanzarote
+  country_id: '188'
+  id: '101'
+  abbr: LZ
+- name: Fuerteventura
+  country_id: '188'
+  id: '102'
+  abbr: FV
+- name: Gran Canaria
+  country_id: '188'
+  id: '103'
+  abbr: GC
+- name: Tenerife
+  country_id: '188'
+  id: '104'
+  abbr: TF
+- name: El Hierro
+  country_id: '188'
+  id: '105'
+  abbr: HR
+- name: Gomera
+  country_id: '188'
+  id: '106'
+  abbr: GO
+- name: La Palma
+  country_id: '188'
+  id: '107'
+  abbr: PL
